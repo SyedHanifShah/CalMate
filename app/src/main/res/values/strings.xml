@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalMate</string>
+    <string name="welcome">Welcome!</string>
+    <string name="calmate">CalMate</string>
+    <string name="your_path_to_wellness">“Your path to wellness”</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+</resources>
