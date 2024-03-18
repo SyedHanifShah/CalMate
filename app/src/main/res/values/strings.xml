@@ -5,4 +5,8 @@
     <string name="your_path_to_wellness">“Your path to wellness”</string>
     <string name="login">Login</string>
     <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="example_gmail_com">example@gmail.com</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter password...</string>
 </resources>
